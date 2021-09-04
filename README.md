@@ -6,3 +6,5 @@ I am a first year undergraduate student from Nepal currently in early phase of m
 ### My Acomplishements
 
 ### Find me Around the Web
+- Let's connect on [LinkedIn](https://www.linkedin.com/in/niyoj),
+- Let's chat on [Facebook](https://www.fb.com/oliniyoj).
