@@ -10,4 +10,4 @@ I am a first year undergraduate student from Nepal currently in early phase of m
 - Let's chat on [Facebook](https://www.fb.com/oliniyoj).
 
 ### My GitHub Stats
-![Niyoj's GitHub Stat](https://github-readme-stats.vercel.app/api?username=niyoj)
+![Niyoj's GitHub Stat](https://github-readme-stats.vercel.app/api?username=niyoj&show_icons=true)
